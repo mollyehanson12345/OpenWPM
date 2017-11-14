@@ -17,7 +17,7 @@
 
     "tp_cookies": "always",
     "donottrack": false,
-    "ghostery": false,
+    "ghostery": true,
     "https-everywhere": false,
     "adblock-plus": false,
     "tracking-protection": false,
